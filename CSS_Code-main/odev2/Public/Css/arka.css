@@ -1,0 +1,19 @@
+body{background: url(../İmage/sky.jpg);
+    height: 100vh;
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position: center;
+}
+.homework h1{
+    
+    border-style: ridge;
+    border-color: rgb(200, 245, 0);
+    
+    border-radius: 10px;
+    font-size: 70px;
+    font-weight: bold;
+    width: 700px;
+    text-align: center;
+
+}

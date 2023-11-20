@@ -1,0 +1,15 @@
+.code{background-color: rgb(198, 161, 195);
+    opacity: .7;
+    }
+body{position:absolute;
+    left: 100px; 
+    top: 20px;
+    float:left; float:right;
+    clear:left;
+    opacity:0.99;
+    Overflow:scroll;
+    box-shadow: 3px rgb(58, 57, 57);
+    filter:blur(.5px);
+    
+   
+}
